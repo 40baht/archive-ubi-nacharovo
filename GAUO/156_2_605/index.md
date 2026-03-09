@@ -42,8 +42,8 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4">1</td>
-            <td rowspan=4">1</td>
+            <td rowspan=4>1</td>
+            <td rowspan=4>1</td>
             <td>Халитъ Хонтифовъ</td>
             <td>41</td>
             <td>умер в 1853 г.</td>
