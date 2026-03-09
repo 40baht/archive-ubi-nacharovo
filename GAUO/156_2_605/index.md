@@ -1,4 +1,4 @@
-Дата: 10.04.1858
+Год: 1858
 
 Категория: Ревизская сказка (X)
 
@@ -57,34 +57,20 @@
             <td>8</td>
             <td></td>
             <td>15</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>Хамидулла</td>
             <td>4</td>
             <td></td>
             <td>11</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>Халиулла</td>
             <td>2</td>
             <td></td>
             <td>9</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
+<tr><td colspan="9"></td></tr>
         <tr>
             <td rowspan=2>2</td>
             <td rowspan=2>2</td>
@@ -101,12 +87,8 @@
             <td>5</td>
             <td></td>
             <td>12</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
+<tr><td colspan="9"></td></tr>
         <tr>
             <td rowspan=2>3</td>
             <td rowspan=2>3</td>
@@ -126,8 +108,6 @@
             <td>Хусанстдина жена Маргуба Хатяшова</td>
             <td></td>
             <td>23</td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
