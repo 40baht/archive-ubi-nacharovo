@@ -57,18 +57,21 @@
             <td>8</td>
             <td></td>
             <td>15</td>
+            <td colspan=3></td>
         </tr>
         <tr>
             <td>Хамидулла</td>
             <td>4</td>
             <td></td>
             <td>11</td>
+            <td colspan=3></td>
         </tr>
         <tr>
             <td>Халиулла</td>
             <td>2</td>
             <td></td>
             <td>9</td>
+            <td colspan=3></td>
         </tr>
 <tr><td colspan="9"></td></tr>
         <tr>
@@ -87,11 +90,12 @@
             <td>5</td>
             <td></td>
             <td>12</td>
+            <td colspan=3></td>
         </tr>
 <tr><td colspan="9"></td></tr>
         <tr>
-            <td rowspan=2>3</td>
-            <td rowspan=2>3</td>
+            <td rowspan=4>3</td>
+            <td rowspan=4>3</td>
             <td>Ахмет Биктимиров</td>
             <td>52</td>
             <td></td>
@@ -108,6 +112,23 @@
             <td>Хусанстдина жена Маргуба Хатяшова</td>
             <td></td>
             <td>23</td>
+        </tr>
+        <tr>
+            <td>Хусансудина сыновья Фасхетдин</td>
+            <td rowspan=2>новорожденные</td>
+            <td></td>
+            <td>6</td>
+            <td>Его же дочери Хузимзян</td>
+            <td></td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Сейфетдин</td>
+            <td></td>
+            <td>5</td>
+            <td>?</td>
+            <td></td>
+            <td>?</td>
         </tr>
     </tbody>
 </table>
