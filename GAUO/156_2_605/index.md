@@ -44,30 +44,30 @@
         <tr>
             <td rowspan=4>1</td>
             <td rowspan=4>1</td>
-            <td>Халитъ Хонтифовъ</td>
+            <td style="white-space:nowrap">Халит Хонтифов</td>
             <td>41</td>
             <td>умер в 1853 г.</td>
             <td></td>
-            <td>Халита Хантифова жена Радыфя Манюрова</td>
+            <td style="white-space:nowrap">Халита Хантифова жена Радыфя Манюрова</td>
             <td></td>
             <td>48</td>
         </tr>
         <tr>
-            <td>Халитовы Сыновья: Хайбулла</td>
+            <td style="white-space:nowrap">Халитовы Сыновья: Хайбулла</td>
             <td>8</td>
             <td></td>
             <td>15</td>
             <td colspan=3></td>
         </tr>
         <tr>
-            <td>Хамидулла</td>
+            <td style="white-space:nowrap;text-align:right">Хамидулла</td>
             <td>4</td>
             <td></td>
             <td>11</td>
             <td colspan=3></td>
         </tr>
         <tr>
-            <td>Халиулла</td>
+            <td style="white-space:nowrap;text-align:right">Халиулла</td>
             <td>2</td>
             <td></td>
             <td>9</td>
@@ -77,16 +77,16 @@
         <tr>
             <td rowspan=2>2</td>
             <td rowspan=2>2</td>
-            <td>Бикбулат Семерханов</td>
+            <td style="white-space:nowrap">Бикбулат Семерханов</td>
             <td>40</td>
             <td></td>
             <td>47</td>
-            <td>Бикбулата Семерханова жена Назильбика Ибраева</td>
+            <td style="white-space:nowrap">Бикбулата Семерханова жена Назильбика Ибраева</td>
             <td></td>
             <td>39</td>
         </tr>
         <tr>
-            <td>Бикбулата сын Абдрахмнан</td>
+            <td style="white-space:nowrap">Бикбулата сын Абдрахмнан</td>
             <td>5</td>
             <td></td>
             <td>12</td>
@@ -96,34 +96,34 @@
         <tr>
             <td rowspan=4>3</td>
             <td rowspan=4>3</td>
-            <td>Ахмет Биктимиров</td>
+            <td style="white-space:nowrap">Ахмет Биктимиров</td>
             <td>52</td>
             <td></td>
             <td>59</td>
-            <td>Ахмета Биктимирова жена ? Назировa</td>
+            <td style="white-space:nowrap">Ахмета Биктимирова жена ? Назировa</td>
             <td></td>
             <td>39</td>
         </tr>
         <tr>
-            <td>Его сын Хусансудин</td>
+            <td style="white-space:nowrap">Его сын Хусансудин</td>
             <td>28</td>
             <td></td>
             <td>35</td>
-            <td>Хусанстдина жена Маргуба Хатяшова</td>
+            <td style="white-space:nowrap">Хусанстдина жена Маргуба Хатяшова</td>
             <td></td>
             <td>23</td>
         </tr>
         <tr>
-            <td>Хусансудина сыновья Фасхетдин</td>
+            <td style="white-space:nowrap">Хусансудина сыновья Фасхетдин</td>
             <td rowspan=2>новорожденные</td>
             <td></td>
             <td>6</td>
-            <td>Его же дочери Хузимзян</td>
+            <td style="white-space:nowrap">Его же дочери Хузимзян</td>
             <td></td>
             <td>9</td>
         </tr>
         <tr>
-            <td>Сейфетдин</td>
+            <td style="white-space:nowrap;text-align:right">Сейфетдин</td>
             <td></td>
             <td>5</td>
             <td>?</td>
