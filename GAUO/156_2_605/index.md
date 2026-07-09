@@ -94,22 +94,22 @@
         </tr>
 <tr><td colspan="9"></td></tr>
         <tr>
-            <td rowspan=4>3</td>
-            <td rowspan=4>3</td>
+            <td rowspan=10>3</td>
+            <td rowspan=10>3</td>
             <td style="white-space:nowrap">Ахмет Биктимиров</td>
             <td>52</td>
             <td></td>
             <td>59</td>
-            <td style="white-space:nowrap">Ахмета Биктимирова жена ? Назировa</td>
+            <td style="white-space:nowrap">Ахмета Биктимирова жена Салиха Назыровa</td>
             <td></td>
-            <td>39</td>
+            <td>60</td>
         </tr>
         <tr>
             <td style="white-space:nowrap">Его сын Хусансудин</td>
             <td>28</td>
             <td></td>
             <td>35</td>
-            <td style="white-space:nowrap">Хусанстдина жена Маргуба Хатяшова</td>
+            <td style="white-space:nowrap">Хусанстдина жена Маргуб Хатямова</td>
             <td></td>
             <td>23</td>
         </tr>
@@ -129,6 +129,60 @@
             <td>?</td>
             <td></td>
             <td>?</td>
+        </tr>
+        <tr>
+            <td>Ахмеда Биктимирова 2 сын Хисамсудин</td>
+            <td>22</td>
+            <td></td>
+            <td>29</td>
+            <td>Хисамсудина Ахмедева жена Сарбиземал Земдиханова</td>
+            <td></td>
+            <td>27</td>
+        </tr>
+        <tr>
+            <td style="white-space:nowrap;text-align:right">Фахретдин</td>
+            <td>13</td>
+            <td></td>
+            <td>20</td>
+            <td>Его же дочери: Шарипземал</td>
+            <td></td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td style="white-space:nowrap;text-align:right">Хафис</td>
+            <td>9</td>
+            <td></td>
+            <td>17</td>
+            <td style="text-align:right">Айниземал</td>
+            <td></td>
+            <td>1/2</td>
+        </tr>
+        <tr>
+            <td>Ахмеда Биктимирова брат Измаил Биктимиров</td>
+            <td>50</td>
+            <td>умер в 1852 г.</td>
+            <td></td>
+            <td>Измаила Биктимирова жена Зюбря Ибраева</td>
+            <td></td>
+            <td>53</td>
+        </tr>
+        <tr>
+            <td>Измаила Биктимирова сын Искак</td>
+            <td>23</td>
+            <td></td>
+            <td>30</td>
+            <td>Искака жена Миннизямал Мурсаминова</td>
+            <td></td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>Искака сын Абдул Латиф</td>
+            <td>новорожден</td>
+            <td></td>
+            <td>2 мцов</td>
+            <td>Его же дочь Айнизямал</td>
+            <td></td>
+            <td>2</td>
         </tr>
     </tbody>
 </table>
