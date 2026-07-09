@@ -94,8 +94,8 @@
         </tr>
 <tr><td colspan="9"></td></tr>
         <tr>
-            <td rowspan=10>3</td>
-            <td rowspan=10>3</td>
+            <td rowspan=14>3</td>
+            <td rowspan=14>3</td>
             <td style="white-space:nowrap">Ахмет Биктимиров</td>
             <td>52</td>
             <td></td>
@@ -104,6 +104,7 @@
             <td></td>
             <td>60</td>
         </tr>
+    <tr><td colspan="7"></td></tr>
         <tr>
             <td style="white-space:nowrap">Его сын Хусансудин</td>
             <td>28</td>
@@ -130,6 +131,7 @@
             <td></td>
             <td>?</td>
         </tr>
+    <tr><td colspan="7"></td></tr>
         <tr>
             <td>Ахмеда Биктимирова 2 сын Хисамсудин</td>
             <td>22</td>
@@ -157,6 +159,7 @@
             <td></td>
             <td>1/2</td>
         </tr>
+    <tr><td colspan="7"></td></tr>
         <tr>
             <td>Ахмеда Биктимирова брат Измаил Биктимиров</td>
             <td>50</td>
@@ -166,6 +169,7 @@
             <td></td>
             <td>53</td>
         </tr>
+    <tr><td colspan="7"></td></tr>
         <tr>
             <td>Измаила Биктимирова сын Искак</td>
             <td>23</td>
